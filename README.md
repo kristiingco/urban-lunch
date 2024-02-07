@@ -2,8 +2,9 @@
 
 **Project Overview:**
 
-Briefly describe the nature of the project and its objectives.
-Mention the technologies used (e.g., databases, bash commands).
+Urban Lunch is an application designed to customize business lunches by consolidating orders from various eateries within the city. The inspiration behind creating this app stems from the fact that individuals have diverse culinary preferences, whereas most restaurants typically specialize in only one type of cuisine. Consequently, business lunches ordered from such establishments may lack the desired variety.
+The app addresses this issue by providing a diverse selection of foods in a single business lunch. You have the flexibility to combine all different kinds of dishes with just a few clicks. The entire order can then be conveniently collected from a restaurant of your choosing.
+My primary responsibility involved conducting manual testing of the application's features related to the core user process of placing food orders and monitoring delivery. This testing was carried out within Android Studio, using a Google Pixel 5 emulator with API version 31.
 
 **Your Role and Contributions:**
 
